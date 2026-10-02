@@ -1,4 +1,4 @@
-# INFORMATICA-APPLICADA-A-LOGISTICA-FATEC
+#ATIVIDADE 1 INFORMATICA-APPLICADA-A-LOGISTICA-FATEC
 Trabalhos de informática e logística
 ## Apresentação pessoal e equipe
 <img width="1445" height="790" alt="image" src="https://github.com/user-attachments/assets/04ab420e-0bfe-4b56-bcdf-d5612021416b" />
