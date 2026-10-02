@@ -2,6 +2,9 @@
 Trabalhos de informática e logística
 ## Apresentação pessoal e equipe
 <img width="1445" height="790" alt="image" src="https://github.com/user-attachments/assets/04ab420e-0bfe-4b56-bcdf-d5612021416b" />
+## OPERADOR MULTI MODAIS _ GRAFICOS DOS DADOS
+
+<img width="1878" height="755" alt="image" src="https://github.com/user-attachments/assets/a9656c3f-a9d8-40fb-b337-43d015562041" />
 
 ## ANALISE DE DADOS DE EMPRESAS MULTIMODAIS
 <img width="1313" height="732" alt="image" src="https://github.com/user-attachments/assets/f0bbf314-4571-48f4-8a6d-abfc4e0f8bab" />
